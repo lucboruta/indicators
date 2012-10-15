@@ -1,7 +1,7 @@
 indicators
 ==========
 
-Indicators of allophony and phonemehood (data from my Ph.D.)
+Indicators of allophony and phonemehood (data from my Ph.D.).
 
 ## License
 
