@@ -1,7 +1,7 @@
 indicators
 ==========
 
-Indicators of allophony and phonemehood (data and software from my Ph.D.).
+Indicators of allophony and phonemehood: data and software from my [Ph.D](http://tel.archives-ouvertes.fr/tel-00746163).
 
 ## License(s)
 
@@ -14,6 +14,8 @@ All language models and datasets in this repository were derived from the *[Corp
 All programs in this repository were written by yours truly. The relevant license for these files is the *[Do What The Fuck You Want To Public License](http://en.wikipedia.org/wiki/WTFPL)* (version 2).
 
 ## Citation
+
+When using data or software from this repository, please cite my [doctoral dissertation](http://tel.archives-ouvertes.fr/tel-00746163).
 
     @phdthesis{
         author = {Boruta, Luc},
